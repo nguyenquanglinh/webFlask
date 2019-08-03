@@ -1,0 +1,1 @@
+with open ('lesson2/data.txt','rt' )
